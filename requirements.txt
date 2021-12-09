@@ -1,0 +1,5 @@
+requests~=2.24.0
+numpy~=1.18.4
+msgpack~=1.0.0
+inputs~=0.5
+setuptools~=47.3.1
